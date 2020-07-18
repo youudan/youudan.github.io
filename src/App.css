@@ -53,6 +53,10 @@ h3 {
   font-size: large;
   font-weight: 500;
 }
+.about .view-resume {
+  text-align: center;
+}
+
 .portfolio-item p,
 .portfolio-item button {
   font-size: large;
@@ -96,6 +100,9 @@ h3 {
   }
   h1 {
     font-size: 3.3rem;
+  }
+  .about .view-resume {
+    text-align: left;
   }
 }
 

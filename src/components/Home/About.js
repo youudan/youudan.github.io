@@ -18,8 +18,9 @@ function About(props) {
               grow professionally in the IT field.
             </p>
             <p>Feel free to contact me via email at any time</p>
-
-            <Button variant='outline-light'>View Resume</Button>
+            <div className='view-resume'>
+              <Button variant='outline-light'>View Resume</Button>
+            </div>
           </Col>
         </Row>
       </Container>
