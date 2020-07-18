@@ -10,16 +10,20 @@
         "liveLink": "https://youudan-contact-keeper.herokuapp.com/",
         "devWith": [
           {
-            "name": "ReactJs",
-            "icon": "https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png"
+            "name": "Mongodb",
+            "icon": "https://drive.google.com/uc?export=view&id=1QO6UTdA2bBZIx12G8EV1a695hNzv0TXR"
+          },
+          {
+            "name": "ExpressJs",
+            "icon": "https://drive.google.com/uc?export=view&id=1O9WbNXGt0b1NPACRnp8Y5CD_Et9udxt8"
           },
           {
             "name": "ReactJs",
-            "icon": "https://www.sohamkamani.com/static/65137ed3c844d05124dcfdab28263c21/6b427/express-routing-logo.png"
+            "icon": "https://drive.google.com/uc?export=view&id=1Nj7dZQCweNzAhlLCJlkcQ1wJNOqeWKpw"
           },
           {
-            "name": "ReactJs",
-            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"
+            "name": "NodeJs",
+            "icon": "https://drive.google.com/uc?export=view&id=1_iv5HDOUTCtL-FUtYjV2VQABEDGQQLKG"
           }
         ]
       },
@@ -32,7 +36,7 @@
         "devWith": [
           {
             "name": "ReactJs",
-            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png"
+            "icon": "https://drive.google.com/uc?export=view&id=1Nj7dZQCweNzAhlLCJlkcQ1wJNOqeWKpw"
           }
         ]
       }
