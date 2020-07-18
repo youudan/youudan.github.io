@@ -76,10 +76,6 @@ h3 {
 .footer .credits {
   font-size: medium;
 }
-.footer hr {
-  width: 32rem;
-  border: #e6e9ec 1px solid;
-}
 
 /* // Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {

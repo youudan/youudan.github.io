@@ -16,8 +16,8 @@ const Footer = (props) => {
       <br />
       <FontAwesomeIcon icon={faLinkedinIn} size='lg' className='icon' />
       <FontAwesomeIcon icon={faGithub} size='lg' className='icon' />
-      <hr />
-      <p className='credits'>&copy; {`${date.getFullYear()} - ${props.credits}`}</p>
+
+      <p className='credits mt-4'>&copy; {`${date.getFullYear()} - ${props.credits}`}</p>
     </div>
   );
 };
