@@ -5,7 +5,7 @@
       {
         "id": 2,
         "title": "Contact Keeper",
-        "description": "Github finder is an application that functions to find GitHub users and display information about these users. Built using Reactjs",
+        "description": "Contact Keeper is an application that functions to keeping contact.",
         "thumbnail": "https://drive.google.com/uc?export=view&id=1vsJ7j5cwhluv6z1Zyd8-to6zTQ-f7BQC",
         "liveLink": "https://youudan-contact-keeper.herokuapp.com/",
         "devWith": [
