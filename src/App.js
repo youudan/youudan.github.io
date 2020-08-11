@@ -1,9 +1,8 @@
-import React from 'react';
-import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
-import './App.css';
-import { Button } from 'react-bootstrap';
-import Home from './views/Home';
-import NotFound from './views/NotFound';
+import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import "./App.css";
+import Home from "./views/Home";
+import NotFound from "./views/NotFound";
 
 function App() {
   return (

@@ -13,7 +13,7 @@ const PortfolioItem = (props) => {
           <p>{props.project.description}</p>
           <div className='mb-3'>
             {props.project.devWith.map((dev) => (
-              <Image src={dev.icon} width='100px' className='mr-3' fluid />
+              <Image src={dev.icon} key={dev.icon} width='80px' className='mr-3' fluid />
             ))}
           </div>
           <Button variant='outline-primary' onClick={seeLive}>
